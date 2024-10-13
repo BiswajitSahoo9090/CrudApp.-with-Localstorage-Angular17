@@ -1,0 +1,6 @@
+h2{
+    background-color: cyan;
+}
+input.ng-pristine.ng-invalid.ng-touched{
+    border-color: red;
+}

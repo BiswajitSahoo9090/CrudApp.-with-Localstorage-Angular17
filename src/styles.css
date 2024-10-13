@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+
+/* h2{
+    background-color: red;
+    text-align: center;
+    text-decoration: underline;
+} */
+
+body{
+    background-color: #f3f6fb;   /*  whole apge background */
+}
+.card-header{
+    background-color: #ead6d6;    /*  card  background */
+}
